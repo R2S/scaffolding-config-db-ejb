@@ -1,0 +1,1 @@
+# scaffolding-config-db-ejb
